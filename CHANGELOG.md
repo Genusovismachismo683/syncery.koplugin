@@ -4,7 +4,7 @@ All notable user-facing changes to Syncery are recorded here. The format
 follows [Keep a Changelog](https://keepachangelog.com/); the project version
 lives in `_meta.lua`.
 
-## [v1.0.0] — 2026-06-19
+## [v1.0.0] — 2026-06-24
 
 First public release. Syncery keeps your whole reading state in sync across
 every device you read on — no account, and no central server unless you choose
